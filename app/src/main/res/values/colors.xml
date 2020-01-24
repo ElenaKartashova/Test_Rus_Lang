@@ -3,4 +3,11 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="white_transparent_06">#10ffffff</color>
+    <color name="main_yellow">@color/n9</color>
+    <color name="n9">#ffa726</color>
+    <color name="main_yellow_ripple">#dab12e</color>
+    <color name="white_transparent_30">#4cffffff</color>
+    <color name="bg_dark">@color/n2</color>
+    <color name="n2">#3E4757</color>
 </resources>

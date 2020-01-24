@@ -8,4 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Button.RoundNew.Yellow">
+        <item name="android:background">@drawable/button_round_yellow_background</item>
+        <item name="android:textColor">@color/yellow_button_text_color</item>
+    </style>
+
+    <style name="Button.RoundNew" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">@dimen/ui_button_width_100</item>
+        <item name="android:layout_height">@dimen/ui_button_height_100</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textAppearance">@style/Text.Size14</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+
 </resources>

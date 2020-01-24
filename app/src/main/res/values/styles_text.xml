@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/apk/res-auto">
+    <style name="Text" parent="WrapContent">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+
+    <style name="WrapContent" ns1:ignore="UnusedResources">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="Text.Size14">
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
