@@ -1,15 +1,22 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Русский Язык</string>
     <string name="text_9">9</string>
-    <string name="_6">6</string>
-    <string name="_5">5</string>
-    <string name="_7">7</string>
-    <string name="_8">8</string>
-    <string name="_9">9</string>
-    <string name="rus_lang_main_txt">Русский язык</string>
+    <string name="button_6">6</string>
+    <string name="button_5">5</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="rus_lang_main_txt">Русский Язык</string>
     <string name="content_9">Оглавление</string>
     <string name="content_punctuation_syntax_9">СИНТАКСИС И ПУНКТУАЦИЯ</string>
-    <string name="syntax_content_1">1. Повторение синтаксиса словосочетания и простого предложения</string>
-    <string name="btn_syntax_content_1">1. Повторение синтаксиса словосочетания и простого предложения</string>
+    <string name="btn_syntax_content_1">1. Международное значение русского языка</string>
+    <string name="btn_syntax_content_2">2. Повторение синтаксиса словосочетания и простого предложения</string>
     <string name="content_complex_sentence_9">СЛОЖНОЕ ПРЕДЛОЖЕНИЕ</string>
+    <string name="btn_complex_content_3">3. Основные виды сложных предложений</string>
+    <string name="content_union_complex_9_4">Союзные сложные предложения</string>
+    <string name="content_compound_sentences_9_4">Сложносочинённые предложения</string>
+    <string name="btn_content_9_4">4. Основные группы сложносочинённых предложений по значению и союзам. Знаки препинания в сложносочинённом предложении</string>
+    <string name="content_complex_sentences_9_4">Сложносочинённые предложения</string>
+    <string name="btn_content_9_5">5. Строение сложноподчинённого предложения и пунктуация в нём</string>
+
 </resources>
