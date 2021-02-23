@@ -7,8 +7,8 @@
     <string name="button_8">8</string>
     <string name="button_9">9</string>
     <string name="rus_lang_main_txt">Русский Язык</string>
-    <string name="content_9">Оглавление</string>
-    <string name="content_punctuation_syntax_9">СИНТАКСИС И ПУНКТУАЦИЯ</string>
+    <string name="tv_content_9">Оглавление</string>
+    <string name="tv_content_punctuation_syntax_9">СИНТАКСИС И ПУНКТУАЦИЯ</string>
     <string name="btn_syntax_content_1">1. Международное значение русского языка</string>
     <string name="btn_syntax_content_2">2. Повторение синтаксиса словосочетания и простого предложения</string>
     <string name="content_complex_sentence_9">СЛОЖНОЕ ПРЕДЛОЖЕНИЕ</string>

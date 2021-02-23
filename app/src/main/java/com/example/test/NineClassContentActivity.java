@@ -9,6 +9,6 @@ public class NineClassContentActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_content_nine_class);
+        setContentView(R.layout.rv_content_nine_class);
     }
 }
