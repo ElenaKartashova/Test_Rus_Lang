@@ -3,12 +3,27 @@
     android:layout_width="match_parent" android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/tv_content_nine_class"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
-        android:text="@string/tv_content_9"
-        android:textSize="20sp" />
+        android:id="@+id/tv_content_punctuation_syntax_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tv_content_punctuation_syntax_9"
+        android:textSize="20sp"
+        android:textColor="#3E4757"
+        android:textStyle="italic"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="25dp"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:id="@+id/btn_syntax_content_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_syntax_content_1"
+        android:textSize="20sp"
+        android:textColor="#3E4757"
+        android:textStyle="italic"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="25dp"
+        android:layout_gravity="start"/>
 
 </FrameLayout>

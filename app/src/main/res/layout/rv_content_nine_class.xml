@@ -6,10 +6,23 @@
     android:layout_height="match_parent"
     tools:context=".NineClassContentActivity">
 
+    <TextView
+        android:id="@+id/tv_content_nine_class"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_content_9"
+        android:textSize="35sp"
+        android:textColor="#3E4757"
+        android:textStyle="italic"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"/>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_content_nine_class"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp">
 
 
     </androidx.recyclerview.widget.RecyclerView>
