@@ -26,4 +26,16 @@
         android:layout_marginLeft="25dp"
         android:layout_gravity="start"/>
 
+    <TextView
+        android:id="@+id/btn_syntax_content_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_syntax_content_1"
+        android:textSize="20sp"
+        android:textColor="#3E4757"
+        android:textStyle="italic"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="25dp"
+        android:layout_gravity="start"/>
+
 </FrameLayout>
